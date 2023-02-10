@@ -1,3 +1,3 @@
 # AGW
 
-Testando o arquivo $ \sqrt{ a+2} $
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
