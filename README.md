@@ -1,3 +1,3 @@
 # AGW
 
-Testando o arquivo $ \alpha$
+Testando o arquivo $ \sqrt{ a+2} $
